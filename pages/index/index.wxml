@@ -1,0 +1,20 @@
+<!--index.wxml-->
+<view>
+
+  <view>
+    <view class="divLine"></view>
+  </view>
+
+  <view>
+    <image class="logo" mode="aspectFit" src="../../images/triumph_logo.png"></image>
+  </view>
+
+  <view>
+    <image class="top-banner" mode="aspectFill" src="../../images/top_banner.gif"></image>
+  </view>
+
+  <view class="size">
+    <navigator url="../logs.wxml" class="image-url-smile"  redirect></navigator>
+  </view>
+
+</view>

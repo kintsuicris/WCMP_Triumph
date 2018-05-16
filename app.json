@@ -1,0 +1,47 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Together We Triumph",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#FFCEE6",
+    "enablePullDownRefresh": true
+  },
+
+  "tabBar": {
+    "color": "#FE8080",
+    "selectedColor": "#990000",
+    "borderStyle": "white",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "HOME",
+        "iconPath": "images/logo_icon_unselected.png",
+        "selectedIconPath": "images/logo_icon.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "SMILE",
+        "iconPath":"images/smile_icon_unselected.png",
+        "selectedIconPath":"images/smile_icon.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "VOTE",
+        "iconPath": "images/vote_icon_unselected.png",
+        "selectedIconPath":"images/vote_icon.png"
+      }
+    ]
+  },
+
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  }  
+
+}

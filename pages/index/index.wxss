@@ -1,0 +1,13 @@
+/**index.wxss**/
+.logo {
+  height: 36px; 
+  padding-top: 10px; 
+  padding-bottom: 6px; 
+  margin-bottom: 0px;
+}
+
+.top-banner {
+  padding-top: 0px;
+  margin-top: 0px; 
+  height: 96px;
+}
