@@ -13,8 +13,8 @@
     <image class="top-banner" mode="aspectFill" src="../../images/top_banner.gif"></image>
   </view>
 
-  <view class="size">
-    <navigator url="../logs.wxml" class="image-url-smile"  redirect></navigator>
+  <view>
+    <navigator url="https://www.google.com" class="smile-banner" redirect></navigator>
   </view>
 
 </view>

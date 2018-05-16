@@ -11,3 +11,7 @@
   margin-top: 0px; 
   height: 96px;
 }
+
+.smile-banner {
+  background-image: url('https://www.unpackol.com/wp-content/uploads/2018/05/smile_bg.jpg');
+}
