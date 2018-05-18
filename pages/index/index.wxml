@@ -14,7 +14,9 @@
   </view>
 
   <view>
-    <navigator url="https://www.google.com" class="smile-banner" redirect></navigator>
+    <navigator url="https://www.google.com" class="smile-banner" redirect>
+     <image src="http://www.unpackol.com/wp-content/uploads/2018/05/smile_btn-1.png" class="smile-btn"></image>
+    </navigator>
   </view>
 
 </view>
